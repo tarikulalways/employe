@@ -1,0 +1,15 @@
+{
+    "name": "acer/employe",
+    "autoload": {
+        "psr-4": {
+            "Employe\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Tarikul Islam",
+            "email": "tarikulislam6004@gmail.com"
+        }
+    ],
+    "require": {}
+}
